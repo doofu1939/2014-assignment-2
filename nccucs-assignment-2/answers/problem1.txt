@@ -1,0 +1,15 @@
+﻿Operations:
+
+CreateGraph (graphName)
+
+CreateNode (nodeName ,cost)
+
+AddNode (graphName ,nodeName)
+
+AddEdge (graphName ,parentNode ,childNode)
+
+ListNodes (graphName)
+
+ListChildren (graphName ,parentNode)
+
+FindPath graphName from1 [from2 [from3 ... ] ] -> to1 [to2 [to3 ... ] ]
