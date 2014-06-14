@@ -1,0 +1,18 @@
+/* construct a empty graph which is about to implement */
+public void CreateGraph(graphName){};
+
+/* create the node which will be added to the graph */
+public void CreateNode (nodeName ,cost){};
+
+/* add the node 'nodeName' to the graph 'graphName' */
+public void AddNode (graphName ,nodeName){};
+
+/* add an edge between parentNode and childNode in the graphName) */
+public void AddEdge (graphName ,parentNode ,childNode){};
+
+/* list all nodes in the graphName */
+public void ListNodes (graphName){};
+
+/* list all children of the parentNode */
+public void ListChildren (graphName ,parentNode){};
+    
