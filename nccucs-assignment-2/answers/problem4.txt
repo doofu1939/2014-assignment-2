@@ -1,0 +1,16 @@
+Graph Implementation 
+
+1.資料結構方面
+
+  * Node: 使用HashMap, 以儲存Node資訊
+  * Edge: 使用Adjcent matrix, 每兩個 node間有edge, 所對應 matrix item將被設定值
+  * Nodelist:使用ArrayList, 儲存圖中所有Node名字, 以方便有需要時列出名字
+
+
+2.功能方面
+
+  *加入新 node
+  *加入新 edge
+  *列出所有 node
+  *列出任何 node之 parent 及 child node
+
