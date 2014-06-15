@@ -1,0 +1,4 @@
+problem 1	30min
+problem 2	40min
+problem 3	60min
+problem 4	60min
